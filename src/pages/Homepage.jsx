@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "../components/Hero";
 import FeaturedDestination from "../components/FeaturedDestination";
 import ExclusiveOffers from "../components/ExclusiveOffers";
-import CustumerRating from "../components/custumerRating";
+import CustumerRating from "../components/CustumerRating";
 import JoinHotel from "../components/JoinHotel";
 import Overview from "../components/Overview";
 
